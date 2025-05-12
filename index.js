@@ -222,7 +222,7 @@ document.addEventListener("DOMContentLoaded", () => {
         restartBtn.onclick = () => {
           document.getElementById("English").style.display = "none";
           const techSection = document.getElementById("Technical");
-          techSection.style.display = "block";
+          techSection.style.display = "flex";
 
           techSection.querySelector(".start").style.display = "block";
           techSection.querySelector(".result").style.display = "none";
