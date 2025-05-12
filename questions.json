@@ -1,0 +1,1387 @@
+{
+  "EnglishTest":[
+  {
+    "question": "Choose the correct form: She ____ to school every day.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "go",
+        "correct": false
+      },
+      {
+        "text": "goes",
+        "correct": true
+      },
+      {
+        "text": "gone",
+        "correct": false
+      },
+      {
+        "text": "going",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct form is 'goes' based on grammar rules."
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "He don't like pizza.",
+        "correct": false
+      },
+      {
+        "text": "He doesn't likes pizza.",
+        "correct": false
+      },
+      {
+        "text": "He doesn't like pizza.",
+        "correct": true
+      },
+      {
+        "text": "He not like pizza.",
+        "correct": false
+      }
+    ],
+    "explanation": "'He doesn't like pizza.' is grammatically correct."
+  },
+  {
+    "question": "What is the past tense of 'run'?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "runned",
+        "correct": false
+      },
+      {
+        "text": "ran",
+        "correct": true
+      },
+      {
+        "text": "runned",
+        "correct": false
+      },
+      {
+        "text": "run",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct past tense form of the verb is 'ran'."
+  },
+  {
+    "question": "Identify the synonym of 'happy':",
+    "time": "15s",
+    "options": [
+      {
+        "text": "sad",
+        "correct": false
+      },
+      {
+        "text": "angry",
+        "correct": false
+      },
+      {
+        "text": "joyful",
+        "correct": true
+      },
+      {
+        "text": "tired",
+        "correct": false
+      }
+    ],
+    "explanation": "'joyful' is a synonym of the given word."
+  },
+  {
+    "question": "Choose the correct article: I saw ____ elephant.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "a",
+        "correct": false
+      },
+      {
+        "text": "an",
+        "correct": true
+      },
+      {
+        "text": "the",
+        "correct": false
+      },
+      {
+        "text": "no article",
+        "correct": false
+      }
+    ],
+    "explanation": "'an' is the correct article before the noun."
+  },
+  {
+    "question": "Which word is an adjective?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "quickly",
+        "correct": false
+      },
+      {
+        "text": "run",
+        "correct": false
+      },
+      {
+        "text": "beautiful",
+        "correct": true
+      },
+      {
+        "text": "softly",
+        "correct": false
+      }
+    ],
+    "explanation": "'beautiful' is the correct part of speech."
+  },
+  {
+    "question": "Which sentence is in passive voice?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "The boy kicked the ball.",
+        "correct": false
+      },
+      {
+        "text": "She eats an apple.",
+        "correct": false
+      },
+      {
+        "text": "The cake was eaten by Tom.",
+        "correct": true
+      },
+      {
+        "text": "I will call you.",
+        "correct": false
+      }
+    ],
+    "explanation": "'The cake was eaten by Tom.' is in the passive voice."
+  },
+  {
+    "question": "What is the plural form of 'child'?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "childs",
+        "correct": false
+      },
+      {
+        "text": "children",
+        "correct": true
+      },
+      {
+        "text": "childes",
+        "correct": false
+      },
+      {
+        "text": "childrens",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct plural of the word is 'children'."
+  },
+  {
+    "question": "Choose the correct form: They ____ working now.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "are",
+        "correct": true
+      },
+      {
+        "text": "was",
+        "correct": false
+      },
+      {
+        "text": "am",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct form is 'are' based on grammar rules."
+  },
+  {
+    "question": "Which is a conjunction?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "quick",
+        "correct": false
+      },
+      {
+        "text": "and",
+        "correct": true
+      },
+      {
+        "text": "apple",
+        "correct": false
+      },
+      {
+        "text": "happy",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'and'."
+  },
+  {
+    "question": "What type of word is 'slowly'?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "noun",
+        "correct": false
+      },
+      {
+        "text": "verb",
+        "correct": false
+      },
+      {
+        "text": "adverb",
+        "correct": true
+      },
+      {
+        "text": "adjective",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'adverb'."
+  },
+  {
+    "question": "Choose the correct spelling:",
+    "time": "15s",
+    "options": [
+      {
+        "text": "definately",
+        "correct": false
+      },
+      {
+        "text": "definitely",
+        "correct": true
+      },
+      {
+        "text": "definitly",
+        "correct": false
+      },
+      {
+        "text": "defanately",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct spelling is 'definitely'."
+  },
+  {
+    "question": "Which sentence uses the correct preposition?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "He is good in math.",
+        "correct": false
+      },
+      {
+        "text": "He is good at math.",
+        "correct": true
+      },
+      {
+        "text": "He is good for math.",
+        "correct": false
+      },
+      {
+        "text": "He is good on math.",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct preposition in context is 'He is good at math.'."
+  },
+  {
+    "question": "Choose the correct verb form: She ____ already eaten.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "has",
+        "correct": true
+      },
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "having",
+        "correct": false
+      },
+      {
+        "text": "had",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct form is 'has' based on grammar rules."
+  },
+  {
+    "question": "Which is a compound word?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "sunlight",
+        "correct": true
+      },
+      {
+        "text": "light",
+        "correct": false
+      },
+      {
+        "text": "sun",
+        "correct": false
+      },
+      {
+        "text": "bright",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'sunlight'."
+  },
+  {
+    "question": "Find the antonym of 'strong':",
+    "time": "15s",
+    "options": [
+      {
+        "text": "powerful",
+        "correct": false
+      },
+      {
+        "text": "tough",
+        "correct": false
+      },
+      {
+        "text": "weak",
+        "correct": true
+      },
+      {
+        "text": "bold",
+        "correct": false
+      }
+    ],
+    "explanation": "'weak' is an antonym of the given word."
+  },
+  {
+    "question": "What is the superlative form of 'good'?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "goodest",
+        "correct": false
+      },
+      {
+        "text": "more good",
+        "correct": false
+      },
+      {
+        "text": "best",
+        "correct": true
+      },
+      {
+        "text": "better",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct form is 'best' based on grammar rules."
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "time": "15s",
+    "options": [
+      {
+        "text": "I has a book.",
+        "correct": false
+      },
+      {
+        "text": "I have a book.",
+        "correct": true
+      },
+      {
+        "text": "I haves a book.",
+        "correct": false
+      },
+      {
+        "text": "I had have a book.",
+        "correct": false
+      }
+    ],
+    "explanation": "'I have a book.' is grammatically correct."
+  },
+  {
+    "question": "What is the noun in this sentence: 'The dog barked loudly.'",
+    "time": "15s",
+    "options": [
+      {
+        "text": "barked",
+        "correct": false
+      },
+      {
+        "text": "loudly",
+        "correct": false
+      },
+      {
+        "text": "dog",
+        "correct": true
+      },
+      {
+        "text": "the",
+        "correct": false
+      }
+    ],
+    "explanation": "'dog' is the correct part of speech."
+  },
+  {
+    "question": "Choose the correct form: He is taller ____ me.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "than",
+        "correct": true
+      },
+      {
+        "text": "then",
+        "correct": false
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "to",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct form is 'than' based on grammar rules."
+  },
+  {
+    "question": "Which sentence is interrogative?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Close the door.",
+        "correct": false
+      },
+      {
+        "text": "Where is the book?",
+        "correct": true
+      },
+      {
+        "text": "The book is on the table.",
+        "correct": false
+      },
+      {
+        "text": "He is reading.",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Where is the book?'."
+  },
+  {
+    "question": "Find the past participle of 'write':",
+    "time": "15s",
+    "options": [
+      {
+        "text": "writed",
+        "correct": false
+      },
+      {
+        "text": "wrote",
+        "correct": false
+      },
+      {
+        "text": "written",
+        "correct": true
+      },
+      {
+        "text": "write",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'written'."
+  },
+  {
+    "question": "Which sentence is correct?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Their going to the store.",
+        "correct": false
+      },
+      {
+        "text": "They're going to the store.",
+        "correct": true
+      },
+      {
+        "text": "There going to the store.",
+        "correct": false
+      },
+      {
+        "text": "Theyre going to the store.",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'They're going to the store.'."
+  },
+  {
+    "question": "Identify the verb: 'She dances beautifully.'",
+    "time": "15s",
+    "options": [
+      {
+        "text": "She",
+        "correct": false
+      },
+      {
+        "text": "dances",
+        "correct": true
+      },
+      {
+        "text": "beautifully",
+        "correct": false
+      },
+      {
+        "text": "none",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct form is 'dances' based on grammar rules."
+  },
+  {
+    "question": "What is the plural of 'mouse'?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "mouses",
+        "correct": false
+      },
+      {
+        "text": "mices",
+        "correct": false
+      },
+      {
+        "text": "mice",
+        "correct": true
+      },
+      {
+        "text": "mouse",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct plural of the word is 'mice'."
+  },
+  {
+    "question": "Which of these is an interjection?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Wow!",
+        "correct": true
+      },
+      {
+        "text": "Quickly",
+        "correct": false
+      },
+      {
+        "text": "Blue",
+        "correct": false
+      },
+      {
+        "text": "Swim",
+        "correct": false
+      }
+    ],
+    "explanation": "'Wow!' is an interjection."
+  },
+  {
+    "question": "Which sentence uses future tense?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "He is playing.",
+        "correct": false
+      },
+      {
+        "text": "He will play.",
+        "correct": true
+      },
+      {
+        "text": "He played.",
+        "correct": false
+      },
+      {
+        "text": "He plays.",
+        "correct": false
+      }
+    ],
+    "explanation": "The sentence 'He will play.' uses the correct tense."
+  },
+  {
+    "question": "Find the correct possessive form: The ____ toys are new.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "child",
+        "correct": false
+      },
+      {
+        "text": "childs",
+        "correct": false
+      },
+      {
+        "text": "child's",
+        "correct": false
+      },
+      {
+        "text": "children's",
+        "correct": true
+      }
+    ],
+    "explanation": "The correct form is 'children's' based on grammar rules."
+  },
+  {
+    "question": "Choose the correct homophone: I went ____ the park.",
+    "time": "15s",
+    "options": [
+      {
+        "text": "to",
+        "correct": true
+      },
+      {
+        "text": "too",
+        "correct": false
+      },
+      {
+        "text": "two",
+        "correct": false
+      },
+      {
+        "text": "toe",
+        "correct": false
+      }
+    ],
+    "explanation": "'to' is the correct homophone in context."
+  },
+  {
+    "question": "Which sentence is correct?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Its raining outside.",
+        "correct": false
+      },
+      {
+        "text": "It\u2019s raining outside.",
+        "correct": true
+      },
+      {
+        "text": "Its\u2019 raining outside.",
+        "correct": false
+      },
+      {
+        "text": "It raining outside.",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'It\u2019s raining outside.'."
+  }
+],
+
+"TechnicalTest":[
+  {
+    "question": "What does HTML stand for?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Hyperlinks and Text Markup Language",
+        "correct": false
+      },
+      {
+        "text": "Home Tool Markup Language",
+        "correct": false
+      },
+      {
+        "text": "Hyper Text Markup Language",
+        "correct": true
+      },
+      {
+        "text": "Hyperlink Text Management Language",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Hyper Text Markup Language'."
+  },
+  {
+    "question": "Which language is used for styling web pages?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "HTML",
+        "correct": false
+      },
+      {
+        "text": "JQuery",
+        "correct": false
+      },
+      {
+        "text": "CSS",
+        "correct": true
+      },
+      {
+        "text": "XML",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'CSS'."
+  },
+  {
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "<js>",
+        "correct": false
+      },
+      {
+        "text": "<scripting>",
+        "correct": false
+      },
+      {
+        "text": "<javascript>",
+        "correct": false
+      },
+      {
+        "text": "<script>",
+        "correct": true
+      }
+    ],
+    "explanation": "The correct answer is '<script>'."
+  },
+  {
+    "question": "What does CSS stand for?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Computer Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Creative Style Sheets",
+        "correct": false
+      },
+      {
+        "text": "Cascading Style Sheets",
+        "correct": true
+      },
+      {
+        "text": "Colorful Style Sheets",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Cascading Style Sheets'."
+  },
+  {
+    "question": "Which symbol is used for comments in JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "//",
+        "correct": true
+      },
+      {
+        "text": "/*",
+        "correct": false
+      },
+      {
+        "text": "#",
+        "correct": false
+      },
+      {
+        "text": "<!--",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '//'."
+  },
+  {
+    "question": "Which HTML tag is used to define an unordered list?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "<ul>",
+        "correct": true
+      },
+      {
+        "text": "<ol>",
+        "correct": false
+      },
+      {
+        "text": "<li>",
+        "correct": false
+      },
+      {
+        "text": "<list>",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '<ul>'."
+  },
+  {
+    "question": "Which is NOT a JavaScript data type?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "String",
+        "correct": false
+      },
+      {
+        "text": "Number",
+        "correct": false
+      },
+      {
+        "text": "Boolean",
+        "correct": false
+      },
+      {
+        "text": "Float",
+        "correct": true
+      }
+    ],
+    "explanation": "The correct answer is 'Float'."
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "HyperText Transfer Protocol",
+        "correct": true
+      },
+      {
+        "text": "HighText Transfer Protocol",
+        "correct": false
+      },
+      {
+        "text": "HyperText Transmission Protocol",
+        "correct": false
+      },
+      {
+        "text": "HyperText Transfer Program",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'HyperText Transfer Protocol'."
+  },
+  {
+    "question": "Which company developed JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Microsoft",
+        "correct": false
+      },
+      {
+        "text": "Google",
+        "correct": false
+      },
+      {
+        "text": "Netscape",
+        "correct": true
+      },
+      {
+        "text": "Oracle",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Netscape'."
+  },
+  {
+    "question": "How do you write 'Hello World' in an alert box?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "alertBox('Hello World');",
+        "correct": false
+      },
+      {
+        "text": "msg('Hello World');",
+        "correct": false
+      },
+      {
+        "text": "alert('Hello World');",
+        "correct": true
+      },
+      {
+        "text": "msgBox('Hello World');",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'alert('Hello World');'."
+  },
+  {
+    "question": "Which HTML tag is used to define a table row?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "<row>",
+        "correct": false
+      },
+      {
+        "text": "<td>",
+        "correct": false
+      },
+      {
+        "text": "<th>",
+        "correct": false
+      },
+      {
+        "text": "<tr>",
+        "correct": true
+      }
+    ],
+    "explanation": "The correct answer is '<tr>'."
+  },
+  {
+    "question": "What is the correct file extension for JavaScript files?",
+    "time": "15s",
+    "options": [
+      {
+        "text": ".js",
+        "correct": true
+      },
+      {
+        "text": ".java",
+        "correct": false
+      },
+      {
+        "text": ".script",
+        "correct": false
+      },
+      {
+        "text": ".javascript",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '.js'."
+  },
+  {
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "var",
+        "correct": false
+      },
+      {
+        "text": "const",
+        "correct": true
+      },
+      {
+        "text": "let",
+        "correct": false
+      },
+      {
+        "text": "constant",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'const'."
+  },
+  {
+    "question": "What does DOM stand for?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Document Object Model",
+        "correct": true
+      },
+      {
+        "text": "Display Object Management",
+        "correct": false
+      },
+      {
+        "text": "Digital Ordinance Model",
+        "correct": false
+      },
+      {
+        "text": "Desktop Oriented Mode",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Document Object Model'."
+  },
+  {
+    "question": "Which built-in method removes the last element from an array?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "last()",
+        "correct": false
+      },
+      {
+        "text": "pop()",
+        "correct": true
+      },
+      {
+        "text": "remove()",
+        "correct": false
+      },
+      {
+        "text": "delete()",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'pop()'."
+  },
+  {
+    "question": "Which of these is a backend language?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "HTML",
+        "correct": false
+      },
+      {
+        "text": "CSS",
+        "correct": false
+      },
+      {
+        "text": "Node.js",
+        "correct": true
+      },
+      {
+        "text": "Bootstrap",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Node.js'."
+  },
+  {
+    "question": "What is a correct syntax to output in console in JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "print('Hello')",
+        "correct": false
+      },
+      {
+        "text": "console.log('Hello')",
+        "correct": true
+      },
+      {
+        "text": "echo 'Hello'",
+        "correct": false
+      },
+      {
+        "text": "log.console('Hello')",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'console.log('Hello')'."
+  },
+  {
+    "question": "Which of these is used to structure a web page?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "HTML",
+        "correct": true
+      },
+      {
+        "text": "CSS",
+        "correct": false
+      },
+      {
+        "text": "JavaScript",
+        "correct": false
+      },
+      {
+        "text": "React",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'HTML'."
+  },
+  {
+    "question": "Which operator is used to compare both value and type?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "==",
+        "correct": false
+      },
+      {
+        "text": "===",
+        "correct": true
+      },
+      {
+        "text": "=",
+        "correct": false
+      },
+      {
+        "text": "!==",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '==='."
+  },
+  {
+    "question": "How do you define a function in JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "function myFunc()",
+        "correct": true
+      },
+      {
+        "text": "def myFunc()",
+        "correct": false
+      },
+      {
+        "text": "func myFunc()",
+        "correct": false
+      },
+      {
+        "text": "function:myFunc()",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'function myFunc()'."
+  },
+  {
+    "question": "What is the output of 2 + '2' in JavaScript?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "22",
+        "correct": true
+      },
+      {
+        "text": "NaN",
+        "correct": false
+      },
+      {
+        "text": "Error",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '22'."
+  },
+  {
+    "question": "What tag is used to link a CSS file in HTML?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "<style>",
+        "correct": false
+      },
+      {
+        "text": "<css>",
+        "correct": false
+      },
+      {
+        "text": "<link>",
+        "correct": true
+      },
+      {
+        "text": "<script>",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '<link>'."
+  },
+  {
+    "question": "Which command initializes a new Git repository?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "git start",
+        "correct": false
+      },
+      {
+        "text": "git init",
+        "correct": true
+      },
+      {
+        "text": "git create",
+        "correct": false
+      },
+      {
+        "text": "git new",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'git init'."
+  },
+  {
+    "question": "What is the purpose of 'npm'?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "A database management tool",
+        "correct": false
+      },
+      {
+        "text": "A JavaScript compiler",
+        "correct": false
+      },
+      {
+        "text": "Node Package Manager",
+        "correct": true
+      },
+      {
+        "text": "A CSS framework",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Node Package Manager'."
+  },
+  {
+    "question": "What is the default port for HTTP?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "80",
+        "correct": true
+      },
+      {
+        "text": "22",
+        "correct": false
+      },
+      {
+        "text": "443",
+        "correct": false
+      },
+      {
+        "text": "21",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '80'."
+  },
+  {
+    "question": "Which tool is used for version control?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "VS Code",
+        "correct": false
+      },
+      {
+        "text": "Git",
+        "correct": true
+      },
+      {
+        "text": "Nginx",
+        "correct": false
+      },
+      {
+        "text": "Docker",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'Git'."
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "<a>",
+        "correct": true
+      },
+      {
+        "text": "<link>",
+        "correct": false
+      },
+      {
+        "text": "<href>",
+        "correct": false
+      },
+      {
+        "text": "<url>",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '<a>'."
+  },
+  {
+    "question": "Which protocol is used to encrypt data on the web?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "HTTP",
+        "correct": false
+      },
+      {
+        "text": "TCP",
+        "correct": false
+      },
+      {
+        "text": "FTP",
+        "correct": false
+      },
+      {
+        "text": "HTTPS",
+        "correct": true
+      }
+    ],
+    "explanation": "The correct answer is 'HTTPS'."
+  },
+  {
+    "question": "Which of these is a JavaScript framework?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "Laravel",
+        "correct": false
+      },
+      {
+        "text": "Spring",
+        "correct": false
+      },
+      {
+        "text": "React",
+        "correct": true
+      },
+      {
+        "text": "Django",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is 'React'."
+  },
+  {
+    "question": "Which tag is used to create a form in HTML?",
+    "time": "15s",
+    "options": [
+      {
+        "text": "<input>",
+        "correct": false
+      },
+      {
+        "text": "<form>",
+        "correct": true
+      },
+      {
+        "text": "<action>",
+        "correct": false
+      },
+      {
+        "text": "<submit>",
+        "correct": false
+      }
+    ],
+    "explanation": "The correct answer is '<form>'."
+  }
+]
+}
